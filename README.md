@@ -1,5 +1,7 @@
 J'ai utilisé le framework Spring Boot pour pouvoir avoir un CRUD fonctionnel et une interface graphique pour tester les fonctionnalités (Swagger).
 
+Pourquoi Sping Boot, car je l'utilise déjà à mon entreprise pour gérer leurs extranet et qu'il fourni un Swagger pour visuellement tester.
+
 CODE :
 
 Classe principale d'initialisation Spring Boot
